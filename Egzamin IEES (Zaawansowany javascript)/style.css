@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+}
+.article {
+    
+    width:80%;
+    margin:0 auto;
+    background-color: rgba(128, 128, 128, 0.789);
+    box-shadow: 3px 3px 3px black;
+}
+.card {
+    background-color: brown;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+.h2 {
+    font-size: 40px;
+}
+.paragraph {
+    color: grey;
+    font-size: 20px;
+}
